@@ -49,6 +49,11 @@ MEDIR CADA UNA DE LAS CORRIENTES DE MALLA:
 
 ![image](https://user-images.githubusercontent.com/85263529/121990547-8f9fc100-cd63-11eb-81ee-d38ca0bebfb9.png)
 
+CÁLCULOS:
+
+![image](https://user-images.githubusercontent.com/85263529/121995270-49029480-cd6c-11eb-9510-4bba9efd257a.png)
+
+
 
 
 
