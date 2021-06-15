@@ -37,6 +37,15 @@ El análisis de redes eléctricas por mallas es un método que utiliza la Ley de
 ![image](https://user-images.githubusercontent.com/85263529/121982002-50b63f00-cd54-11eb-847c-dbeb48f53686.png)
 
 
+5.CIRCUITO ARMADO.
+
+![image](https://user-images.githubusercontent.com/85263529/121987862-eeaf0700-cd5e-11eb-8800-f7a294817a45.png)
+
+CIRCUITO ARMADO EN TINKERCAD:
+
+![image](https://user-images.githubusercontent.com/85263529/121987912-04243100-cd5f-11eb-911d-0dd93623ab35.png)
+
+
 
 7.CONCLUSIONES: 
 
