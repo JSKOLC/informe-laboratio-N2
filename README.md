@@ -45,6 +45,11 @@ CIRCUITO ARMADO EN TINKERCAD:
 
 ![image](https://user-images.githubusercontent.com/85263529/121987912-04243100-cd5f-11eb-911d-0dd93623ab35.png)
 
+MEDIR CADA UNA DE LAS CORRIENTES DE MALLA:
+
+![image](https://user-images.githubusercontent.com/85263529/121990547-8f9fc100-cd63-11eb-81ee-d38ca0bebfb9.png)
+
+
 
 
 7.CONCLUSIONES: 
