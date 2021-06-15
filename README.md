@@ -61,6 +61,8 @@ CÁLCULOS:
 
 6.VIDEO:
 
+https://youtu.be/oYntPoyC9gQ
+
 
 
 7.CONCLUSIONES: 
