@@ -19,6 +19,10 @@
 
 2.INFORMACION GENERAL:
 
+El análisis de mallas es una técnica que hace uso de la LVK para expresar voltajes en función de corrientes.
+
+Una malla es una trayectoria cerrada que no encierra dentro de sí a ningún elemento del circuito.
+
 El análisis de redes eléctricas por mallas es un método que utiliza la Ley de Voltajes de Kirchhoff para obtener un conjunto de ecuaciones simultáneas que permitan determinar los valores de las corrientes que pasan por las ramas del circuito en estudio.
 
 3.MARCO TEÓRICO:
