@@ -53,6 +53,10 @@ CÁLCULOS:
 
 ![image](https://user-images.githubusercontent.com/85263529/121995270-49029480-cd6c-11eb-9510-4bba9efd257a.png)
 
+![image](https://user-images.githubusercontent.com/85263529/122001703-5886db00-cd76-11eb-9602-6296d90d503a.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/122000886-20cb6380-cd75-11eb-9310-c2ef487c8b9a.png)
 
 
 
