@@ -13,6 +13,18 @@ Desarrollar   las   habilidades   para   facilitar   el   análisis   de   difer
 
 El análisis de redes eléctricas por mallas es un método que utiliza la Ley de Voltajes de Kirchhoff para obtener un conjunto de ecuaciones simultáneas que permitan determinar los valores de las corrientes que pasan por las ramas del circuito en estudio.
 
+3.MARCO TEÓRICO:
+
+
+![image](https://user-images.githubusercontent.com/85263529/121981935-34b29d80-cd54-11eb-879e-6506945912bd.png)
+
+
+4.MATERIALES Y EQUIPOS REQUERIDOS:
+
+
+![image](https://user-images.githubusercontent.com/85263529/121982002-50b63f00-cd54-11eb-847c-dbeb48f53686.png)
+
+
 
 7.CONCLUSIONES: 
 
