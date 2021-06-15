@@ -1,4 +1,4 @@
-# informe-laboratio-N2
+# informe-laboratorio-N2
 
 
 1.OBJETIVOS:
