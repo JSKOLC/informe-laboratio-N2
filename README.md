@@ -59,6 +59,8 @@ CÁLCULOS:
 ![image](https://user-images.githubusercontent.com/85263529/122000886-20cb6380-cd75-11eb-9310-c2ef487c8b9a.png)
 
 
+6.VIDEO:
+
 
 
 7.CONCLUSIONES: 
